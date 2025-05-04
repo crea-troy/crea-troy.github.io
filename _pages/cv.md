@@ -155,6 +155,25 @@ Project 💻
 
 Research Experience 💼
 ======
+<!-- INFN Padova -->
+<div style="display:flex; align-items: flex-start; margin-bottom: 1em;">
+
+  <div style="flex:0.5; padding-right:5%;">
+    <img src="{{ site.url }}/images/resume/INFN_Padova.png" alt="INFN Padova Logo" style="max-width:100%; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px;">
+      <b style="font-size: 130%;">INFN Padova</b>
+      <span style="float:right; font-size: 80%; color: #7a7a7a;">Feb 2025 – Present</span>
+    </p>
+    <i>Research Assistant</i>
+    <div style="color: #7a7a7a; margin-top: 5px;">
+      Contributing to the <a href="https://mode-collaboration.github.io/" target="_blank">MODE Collaboration</a> by applying generative machine learning models, particularly diffusion models, to detector design. Currently focused on optimizing sampling calorimeters and gaining hands-on experience in simulation, generative modeling, and detector physics for future collider experiments.
+    </div>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
 
 <!-- TU Dortmund -->
 <div style="display:flex;">
