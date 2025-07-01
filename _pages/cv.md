@@ -95,7 +95,7 @@ Project 💻
       <li>Designing a novel anomaly detection pipeline using Latent Diffusion Models with uncertainty-aware encoders.</li>
       <li>Aiming to identify rare events in LHC collision data that deviate from Standard Model expectations.</li>
       <li>Incorporating Bayesian latent representations and physics-informed priors to enhance discovery potential.</li>
-      <li>Targeting real-world datasets such as CERN Open Data and LHC Olympics 2020.</li>
+      <li>Using benchmark datasets including <i>DarkMachines</i> and <i>LHC Olympics 2020</i> for evaluation and development.</li>
     </ul>
   </div>
 </div>
