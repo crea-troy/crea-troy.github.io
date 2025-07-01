@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- taken from https://emiliendupont.github.io/resume/  -->
 
-Updated April 2025.
+Updated June 2025.
 
 Education 🎓
 ======
@@ -88,7 +88,7 @@ Project 💻
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">Latent Diffusion Anomaly Detection in Particle Physics (Independent Project)</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">May 2025 – Present</span>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">June 2025 – Present</span>
     </p>
     Self-Driven Research
     <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
@@ -112,7 +112,7 @@ Project 💻
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">LLM from Scratch (Independent Project)</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Jun 2025 – Present</span>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">June 2025 – Present</span>
     </p>
     Self-Driven Research
     <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
