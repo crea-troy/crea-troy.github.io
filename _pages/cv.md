@@ -78,6 +78,29 @@ Education 🎓
 
 Project 💻
 ======
+<!-- Anomaly Detection in Particle Physics Project -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}images/resume/Anomaly.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Latent Diffusion Anomaly Detection in Particle Physics (Independent Project)</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">May 2025 – Present</span>
+    </p>
+    Self-Driven Research
+    <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
+      <li>Designing a novel anomaly detection pipeline using Latent Diffusion Models with uncertainty-aware encoders.</li>
+      <li>Aiming to identify rare events in LHC collision data that deviate from Standard Model expectations.</li>
+      <li>Incorporating Bayesian latent representations and physics-informed priors to enhance discovery potential.</li>
+      <li>Targeting real-world datasets such as CERN Open Data and LHC Olympics 2020.</li>
+    </ul>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
 
 <!-- LLM from Scratch Project -->
 <div style="display:flex;">
@@ -89,7 +112,7 @@ Project 💻
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">LLM from Scratch (Independent Project)</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Mar 2025 – Present</span>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Jun 2025 – Present</span>
     </p>
     Self-Driven Research
     <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
