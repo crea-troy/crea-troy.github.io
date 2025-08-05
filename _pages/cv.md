@@ -207,7 +207,7 @@ Research Experience 💼
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">TU Dortmund University</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Dec 2024 - Present</span>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Dec 2024 - April 2025</span>
     </p>
     Intern
     <div style="color:#7a7a7a">
