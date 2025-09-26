@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : 
+  avatar           : "/images/resume/IMG-20250824-WA0000.jpg"
   bio              : 
   location         : "Germany"
   employer         :
