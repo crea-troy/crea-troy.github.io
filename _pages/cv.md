@@ -82,7 +82,7 @@ Project 💻
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}images/resume/brain_model.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}images/resume/bayesian-machine-learning.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
@@ -184,7 +184,7 @@ Research Experience 💼
 <div style="display:flex; align-items: flex-start; margin-bottom: 1em;">
 
   <div style="flex:0.5; padding-right:5%;">
-    <img src="{{ site.url }}/images/resume/SLAC.png" alt="SLAC National Accelerator Laboratory Logo" style="max-width:100%; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/images/resume/slac-logo.png" alt="SLAC National Accelerator Laboratory Logo" style="max-width:100%; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
