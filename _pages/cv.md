@@ -78,23 +78,24 @@ Education 🎓
 
 Project 💻
 ======
-<!-- LLM from Scratch Project -->
+<!-- Brain-Inspired Bayesian Meta-Learning Model Project -->
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}images/resume/llm.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}images/resume/brain_model.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">LLM from Scratch (Independent Project)</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">June 2025 – Present</span>
+      <b style="font-size: 130%;">Brain-Inspired Bayesian Meta-Learning Model (Independent Project)</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">November 2025 – Present</span>
     </p>
     Self-Driven Research
     <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
-      <li>Building a Transformer-based Large Language Model using PyTorch, based on Dr. Sebastian Raschka’s book.</li>
-      <li>Implemented core components: tokenization, attention mechanisms, training loop, and fine-tuning pipeline.</li>
-      <li>Exploring extensions into multimodal AI and intelligent agent workflows.</li>
+      <li>Developing a brain-inspired AI model uniting Bayesian deep learning, frequency-based encoding, and meta-learning principles.</li>
+      <li>Building the framework step-by-step using PyTorch — starting from probabilistic linear layers to a fully adaptive uncertainty-aware model.</li>
+      <li>Exploring biologically-plausible mechanisms such as predictive coding, sparse activations, and self-organization for efficient learning.</li>
+      <li>Goal: create smaller, smarter, and more reliable models that emulate cognitive efficiency of the human brain.</li>
     </ul>
   </div>
 </div>
@@ -109,19 +110,22 @@ Project 💻
 
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Latent Diffusion Anomaly Detection in Particle Physics (Independent Project)</b>
+      <b style="font-size: 130%;">Latent Diffusion Anomaly Detection for New Physics Searches</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">May 2025 – Present</span>
     </p>
-    Self-Driven Research
+    Independent Research Project
     <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
-      <li>Designing a novel anomaly detection pipeline using Latent Diffusion Models with uncertainty-aware encoders.</li>
-      <li>Aiming to identify rare events in LHC collision data that deviate from Standard Model expectations.</li>
-      <li>Incorporating Bayesian latent representations and physics-informed priors to enhance discovery potential.</li>
-      <li>Using benchmark datasets including <i>DarkMachines</i> and <i>LHC Olympics 2020</i> for evaluation and development.</li>
+      <li>Developing a <b>latent diffusion–based anomaly detection framework</b> to uncover model-independent signatures of new physics in LHC collision data.</li>
+      <li>Integrates a <b>Bayesian encoder</b> with <b>physics-aware loss terms</b> (mass decorrelation and τ correlations) for robustness against Standard Model–like backgrounds.</li>
+      <li>Evaluated using <b>discovery-level metrics</b> such as ROC curves, 5σ significance, and UMAP embeddings on simulated <i>QCD</i> and <i>W′</i> datasets.</li>
+      <li>Currently extending to the <b>RODEM Jet Datasets</b> (<a href="LINK_HERE" target="_blank">link</a>) to further assess model generalization and robustness.</li>
+      <li>Goal: build <b>unsupervised, uncertainty-aware models</b> that autonomously identify deviations from the Standard Model, enhancing interpretability in AI-driven high-energy physics discoveries.</li>
+      <li>Preprint in preparation — view the current version of the paper <a href="LINK_TO_PAPER" target="_blank">here</a>.</li>
     </ul>
   </div>
 </div>
 <hr style="height:1em; margin:0em; visibility:hidden;" />
+
 
 <!-- JGU Mainz Master Thesis -->
 <div style="display:flex;">
@@ -177,6 +181,30 @@ Project 💻
 
 Research Experience 💼
 ======
+<!-- SLAC National Accelerator Laboratory -->
+<div style="display:flex; align-items: flex-start; margin-bottom: 1em;">
+
+  <div style="flex:0.5; padding-right:5%;">
+    <img src="{{ site.url }}/images/resume/SLAC.png" alt="SLAC National Accelerator Laboratory Logo" style="max-width:100%; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px;">
+      <b style="font-size: 130%;">SLAC National Accelerator Laboratory</b>
+      <span style="float:right; font-size: 80%; color: #7a7a7a;">Aug 2025 – Present</span>
+    </p>
+    <div style="color: #7a7a7a; margin-top: 5px;">
+      Working on <b>Primary Vertex Timing Reconstruction with the Liquid Argon (LAr) Calorimeter</b> for the <i>High-Luminosity LHC</i> (HL-LHC). The goal is to achieve a timing resolution of approximately <b>60 picoseconds</b> by leveraging detailed calorimeter cell timing information.
+      <br><br>
+      Developing <b>transformer-based neural architectures</b> that combine spatial and temporal features to distinguish true primary vertices from pile-up interactions — a key challenge in the HL-LHC, where up to 200 simultaneous collisions occur per bunch crossing.
+      <br><br>
+      This work enhances <b>vertex–jet association</b> and improves overall <b>event reconstruction fidelity</b> and <b>detector performance</b> in high-luminosity conditions.
+    </div>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+
 <!-- INFN Padova -->
 <div style="display:flex; align-items: flex-start; margin-bottom: 1em;">
 
