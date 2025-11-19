@@ -78,28 +78,6 @@ Education 🎓
 
 Project 💻
 ======
-<!-- Brain-Inspired Bayesian Meta-Learning Model Project -->
-<div style="display:flex;">
-
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}images/resume/bayesian-machine-learning.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Brain-Inspired Bayesian Meta-Learning Model (Independent Project)</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">November 2025 – Present</span>
-    </p>
-    Self-Driven Research
-    <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
-      <li>Researching how the brain and computers can operate through probabilistic reasoning and meta-learning principles.</li>
-      <li>Studying Bayesian deep learning, frequency-based representations, and biologically inspired learning dynamics.</li>
-      <li>Currently conceptualizing a framework for a brain-inspired AI model — an idea under active development with potential for new directions.</li>
-      <li>Goal: create smaller, smarter, and more reliable models that emulate cognitive efficiency of the human brain.</li>
-    </ul>
-  </div>
-</div>
-<hr style="height:1em; margin:0em; visibility:hidden;" />
 
 <!-- Anomaly Detection in Particle Physics Project -->
 <div style="display:flex;">
