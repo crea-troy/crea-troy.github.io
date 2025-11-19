@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- taken from https://emiliendupont.github.io/resume/  -->
 
-Updated June 2025.
+Updated Nov 2025.
 
 Education 🎓
 ======
