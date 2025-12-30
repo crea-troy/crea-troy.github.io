@@ -158,11 +158,13 @@ Project 💻
 
 Research Experience 💼
 ======
-<!-- SLAC National Accelerator Laboratory -->
+<!--
 <div style="display:flex; align-items: flex-start; margin-bottom: 1em;">
 
   <div style="flex:0.5; padding-right:5%;">
-    <img src="{{ site.url }}/images/resume/slac-logo.png" alt="SLAC National Accelerator Laboratory Logo" style="max-width:100%; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/images/resume/slac-logo.png"
+         alt="SLAC National Accelerator Laboratory Logo"
+         style="max-width:100%; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:4;">
@@ -171,13 +173,16 @@ Research Experience 💼
       <span style="float:right; font-size: 80%; color: #7a7a7a;">Aug 2025 – Present</span>
     </p>
     <div style="color: #7a7a7a; margin-top: 5px;">
-      Working on <b>Primary Vertex Timing Reconstruction</b> with the LAr Calorimeter for the <i>HL-LHC</i>, using <b>transformer-based models</b> to improve vertex–jet association and event reconstruction under high pile-up conditions (~200 collisions per bunch crossing).
-
+      Working on <b>Primary Vertex Timing Reconstruction</b> with the LAr Calorimeter
+      for the <i>HL-LHC</i>, using <b>transformer-based models</b> to improve
+      vertex–jet association and event reconstruction under high pile-up conditions
+      (~200 collisions per bunch crossing).
     </div>
   </div>
 </div>
-<hr style="height:1em; margin:0em; visibility:hidden;" />
 
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+-->
 
 <!-- INFN Padova -->
 <div style="display:flex; align-items: flex-start; margin-bottom: 1em;">
