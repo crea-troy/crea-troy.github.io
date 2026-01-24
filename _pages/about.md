@@ -18,6 +18,6 @@ I am currently seeking opportunities in experimental particle physics, AI for sc
 
 You can find more details about my background and research on my CV page.
 
-Outside of research, I enjoy football, running, reading, doing nothing in silence, and meeting people from different backgrounds and perspectives.
+Outside of research, I enjoy football, running, reading, doing nothing (one of my favorite things 😊), and meeting people from different backgrounds and perspectives.
 
-Thanks for stopping by — I hope you’re on an inspiring journey of your own!
+Thanks for stopping by — whether your path feels bright or full of unresolved questions, remember that uncertainty is part of every journey. Answers often emerge through life’s events, at just the right moment in spacetime. Stay curious, don’t lose hope, and enjoy the ride.
