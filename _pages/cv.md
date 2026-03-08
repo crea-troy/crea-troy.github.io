@@ -76,28 +76,70 @@ Education 🎓
 
 
 
-Project 💻
+Projects 💻
 ======
 
-<!-- Anomaly Detection in Particle Physics Project -->
+<!-- PWCP Project -->
 <div style="display:flex;">
-
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}images/resume/Anomaly.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}images/resume/PWCP.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
-
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Latent Diffusion Anomaly Detection for New Physics Searches</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">May 2025 – Present</span>
+      <b style="font-size: 130%;">Precision-Weighted Confidence Propagation (PWCP)</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">2025 – Present</span>
     </p>
     Independent Research Project
     <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
-      <li>Developing a <b>latent diffusion–based anomaly detection framework</b> to identify model-independent new physics signatures in LHC data.</li>
-      <li>Combines a <b>Bayesian encoder</b> with <b>physics-aware losses</b> (mass decorrelation, τ correlations) for robust background separation.</li>
-      <li>Evaluated on <i>QCD</i>, <i>W′</i>, and <i>RODEM Jet</i> datasets (<a href="https://arxiv.org/pdf/2408.11616" target="_blank">link</a>) using ROC, 5σ, and UMAP metrics.</li>
-      <li>Aims to build <b>unsupervised, uncertainty-aware models</b> that enhance interpretability in AI-driven physics searches.</li>
-      <li><i>Preprint in preparation</i></li>
+      <li>Designed a neural network architecture that propagates <b>calibrated uncertainty in a single forward pass</b> via Bayesian inverse-variance message passing.</li>
+      <li>Inspired by <b>Friston's predictive coding framework</b>; analytically tracks precision-weighted belief updates layer by layer.</li>
+      <li>Achieves the <b>lowest Expected Calibration Error</b> across five baselines on MNIST and CIFAR-10 (5 seeds).</li>
+      <li>Runs <b>11× faster than MC Dropout</b> at identical computational cost to a standard deterministic network.</li>
+      <li><i>Manuscript in preparation.</i></li>
+    </ul>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+<!-- IceCube Tau Neutrino Project -->
+<div style="display:flex;">
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}images/resume/IceCube.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Tau Neutrino Identification in IceCube | Bayesian SNN + Transformer</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">2025 – Present</span>
+    </p>
+    Independent Research Project
+    <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
+      <li>Designed a <b>Hybrid Bayesian Spiking Neural Network–Transformer</b> for real-time τ neutrino classification in IceCube HESE data.</li>
+      <li>SNN front-end encodes Cherenkov photon arrival times; Transformer integrates global spatial correlations across the DOM array.</li>
+      <li>Achieves <b>5× efficiency improvement</b> over BDT baselines at astrophysically critical energies (≳100 TeV).</li>
+      <li>Provides <b>per-event uncertainty quantification</b> via variational inference, enabling reliable rejection of atmospheric backgrounds.</li>
+      <li><i>Manuscript in preparation.</i></li>
+    </ul>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+<!-- Anomaly Detection Project -->
+<div style="display:flex;">
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}images/resume/Anomaly.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Bayesian Latent Diffusion for Collider Anomaly Detection</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">May 2025 – 2026</span>
+    </p>
+    Independent Research Project
+    <ul style="margin-top: 5px; padding-left: 1.2em; color:#7a7a7a">
+      <li>Developed a <b>physics-informed Bayesian latent diffusion model</b> to identify model-independent new-physics signatures in LHC jet data.</li>
+      <li>Combines a <b>probabilistic encoder</b> with latent-space diffusion dynamics, enforcing <b>mass decorrelation</b> and latent-correlation regularisation.</li>
+      <li>Ablation studies confirm complementary roles of diffusion, Bayesian regularisation, and physics-motivated losses for training stability.</li>
+      <li>Future work: <b>transformer encoders</b> on RODEM jet constituents for fully unsupervised, model-agnostic new-physics searches at detector level.</li>
+      <li><i><a href="https://www.dropbox.com/scl/fi/pw92ytpe6re9gxj1rshr8/AD.pdf?rlkey=p8k17hhh2g6nbauj2ktq1kqq6&st=7dsvo6el&dl=0" target="_blank">Submitted to arXiv, 06 March 2025.</a></i></li>
     </ul>
   </div>
 </div>
